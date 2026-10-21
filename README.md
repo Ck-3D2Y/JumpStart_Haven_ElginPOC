@@ -51,4 +51,4 @@ The project structure consists of the following components:
 
 * Run the project within the editor environment.
 
-* 
+  
