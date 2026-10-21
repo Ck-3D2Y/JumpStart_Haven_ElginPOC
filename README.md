@@ -32,13 +32,23 @@ The project structure consists of the following components:
 * **`icon.svg`**: The vector graphic icon associated with the project.
 
 
+* To play or run the JumpStart Haven Elgin POC game, follow these steps based on the repository's files:
 
-## Getting Started
-
-* Launch the Godot Engine and choose the option to import a project.
+* **Install Godot Engine**: Ensure you have the Godot Engine installed on your computer, as the project relies on the `project.godot` configuration file.
 
 
-* Select the `project.godot` file located within the repository directory.
+* **Import the Project**: Open Godot, select the option to import a project, and browse to locate and select the `project.godot` file from the repository folder.
+
+
+* **Open the Workspace**: Once the project finishes importing into the editor, verify that the main workspace scene (`main.tscn`) is loaded.
+
+
+* **Run the Game**: Click the **Play** button in the top-right corner of the Godot editor (or press the `F5` shortcut key) to launch the project.
+
+
+* **Interact with the Gameplay**: The game features a 2D character controlled by the `character_body_2d.gd` script, operating against the included background (`Background.png`) and graphic assets (`hero_sticker3.webp`).
 
 
 * Run the project within the editor environment.
+
+* 
